@@ -2,7 +2,9 @@ function Add(2,3):
    return 2 + 3
 
 Add()
+factioral(5)
 
 function Sum(a,b,c):
    return a + b + c
+
 
